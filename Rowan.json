@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Rowan University",
+    "abbreviation": "Rowan",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#FBC426",
+    "primaryBrandColor": "#57160C",
+    "buttonColor": "#FBC426",
+    "buttonTextColor": "#57160C",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/rowan.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/rowan.png",
+    "partner_id": "0014T00000cuBXIQA2",
+    "programName": "Rowan Global Career Accelerator",
+    "termsandConditionsPolicy": "https://sites.rowan.edu/consumer-disclosures/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "6 Rowan credits",
+    "startDate": "May 12",
+    "endDate": "August 31"
+  },
+  {
+    "item": "about",
+    "schoolname": "Rowan University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "The Division of Global Learning and Partnerships, Room 118, Camden Academic Building, 129 Broadway Glassboro, New Jersey 08028",
+    "abbreviation": "Rowan",
+    "phone": "(856) 259-1313",
+    "credits": "6 Rowan credits",
+    "programFee": "+ 1,800",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Rowan University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CHSS 20399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 12",
+    "term1EndDate": "August 31",
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Rowan University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CHSS 20399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 12",
+    "term1EndDate": "August 31",
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Rowan University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CHSS 20399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 12",
+    "term1EndDate": "August 31",
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Rowan University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CHSS 20399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 12",
+    "term1EndDate": "August 31",
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Rowan University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CHSS 20399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 12",
+    "term1EndDate": "August 31",
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Rowan Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(856) 259-1313",
+    "abbreviation": "Rowan"
+  },
+  {
+    "item": "begin",
+    "credits": "6 Rowan credits",
+    "abbreviation": "Rowan",
+    "phone": "(856) 259-1313"
+  }
+]
