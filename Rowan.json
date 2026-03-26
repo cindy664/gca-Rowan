@@ -50,8 +50,8 @@
     "seasonYear2": "Fall 2026",
     "term1StartDate": "May 12",
     "term1EndDate": "August 31",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "September 7",
+    "term2EndDate": "December 18"
   },
   {
     "item": "coding-for-web",
@@ -65,8 +65,8 @@
     "seasonYear2": "Fall 2026",
     "term1StartDate": "May 12",
     "term1EndDate": "August 31",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "September 7",
+    "term2EndDate": "December 18"
   },
   {
     "item": "data-analytics",
@@ -80,8 +80,8 @@
     "seasonYear2": "Fall 2026",
     "term1StartDate": "May 12",
     "term1EndDate": "August 31",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "September 7",
+    "term2EndDate": "December 18"
   },
   {
     "item": "coding-for-data",
@@ -95,8 +95,8 @@
     "seasonYear2": "Fall 2026",
     "term1StartDate": "May 12",
     "term1EndDate": "August 31",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "September 7",
+    "term2EndDate": "December 18"
   },
   {
     "item": "career-rotation",
@@ -110,8 +110,8 @@
     "seasonYear2": "Fall 2026",
     "term1StartDate": "May 12",
     "term1EndDate": "August 31",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "September 7",
+    "term2EndDate": "December 18"
   },
   {
     "item": "reserve-a-seat",
